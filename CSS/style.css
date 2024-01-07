@@ -1,0 +1,44 @@
+.nav-link {
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    font-style: italic;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.banner-img {
+    height: 550px;
+}
+
+.banner-text {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.verifyAge-img {
+    height: 600px;
+}
+
+.age-content {
+    margin: 50px auto;
+    box-shadow: 2px 2px 8px aqua;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: ghostwhite;
+}
+
+
+.footer-title {
+    font-size: 30px;
+}
+
+.footer-icon {
+    text-decoration: none;
+    color: darkblue;
+    font-size: 18px;
+}
